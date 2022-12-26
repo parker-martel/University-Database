@@ -23,16 +23,17 @@ h5 {text-align: center;}
 <div class="text-center" style="text-align: center; padding-top: 80px"> 
 
 <legend class="border-bottom mb-4">Professor Queries</legend>
-<form action="Query3.php" method="POST">>
+<form action="Query3.php" method="POST">
 1. Given the social security number of a professor, list the titles, classrooms, meeting days and time of his/her classes. <b> Enter Social Security: </b><input type="text" name="cno" />
 <input type="submit" />
 </form>
 
-<form action="Query4.php" method="POST">>
+<form action="Query4.php" method="POST">
 2. Given a course number and a section number, count how many students get each distinct grade, i.e. A, A-, B+, B, B-, etc. <br><b> Enter Course number</b> <input type="text" name="Course" />
 <b> Section Number: </b> <input type="text" name="Section" />
 <input type="submit" />
 </form>
+
 
 </div>
 <div class="text-center" style="text-align: center; padding-top: 80px">
