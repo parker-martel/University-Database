@@ -4,3 +4,5 @@
 ![1](images/ERmodel.png "1")
 ![2](images/QueryExample2.png "2")
 ![3](images/Homepage.png "3")
+![4](images/Profpage.png "4")
+![5](images/QueryExample.png "5")
